@@ -1,3 +1,5 @@
+[![Hex.pm](https://img.shields.io/hexpm/v/assert_async.svg)](https://hex.pm/packages/assert_async)
+
 # AssertAsync
 
 Assert tests with retries for async testing.
